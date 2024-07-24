@@ -82,9 +82,12 @@ Open a web browser and type the following or/ click the link on deployed link
 
 The following images show the web application's appearance and functionality:
 
-* The image below shows the insomnia testing get method for finding all tags
+* The image below shows the homepage before login
 
-    ![](./images/function.png)
+    ![](./assets/home.png)
+* The image below shows the after loged in, trying to edit a post or delete it
+
+    ![](./assets/edit.png)
 
 
 ## Authors and Contributors
